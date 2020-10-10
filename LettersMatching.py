@@ -7,6 +7,6 @@ def matching(a, b):
         else:
             print("Your letter is absent in your text!")
 try:
-    matching(str(input("Input your text: \n")),
-            str(input("Input the letter you matching in your text: \n")))
+    matching(str(input("Input your text: \n")).lower(),
+            str(input("Input the letter you matching in your text: \n")).lower())
 except ValueError: print("The end.")
