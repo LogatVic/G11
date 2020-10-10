@@ -1,0 +1,11 @@
+# ?COMO ESTAS, AMIGO (2 variables)
+print("Como estas, amigo?")
+A = int(input("Input first figure: "))
+B = int(input("Input second figure: "))
+if A > B:
+    print("Bien!")
+elif A < B:
+    print("De pingo, compadre!")
+else:
+    print("Tristeza, amigo mío, es hora de emborracharse!")
+

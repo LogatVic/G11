@@ -1,2 +1,2 @@
 # G11
-Group11
+Training Group11
