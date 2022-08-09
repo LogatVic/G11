@@ -1,5 +1,5 @@
-# ?COMO ESTAS, AMIGO (2 variables)
-print("Como estas, amigo?")
+# ?COMO ESTANS, AMIGO (2 variables)
+print("Como estans, amigo?")
 A = int(input("Input first figure: "))
 B = int(input("Input second figure: "))
 if A > B:
